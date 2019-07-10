@@ -1,1 +1,2 @@
-# information_security_management_7002ICT
+# information_security_management_7623ICT
+update course code
